@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.141" height="38" viewBox="0 0 76.141 38">
+  <defs>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <use xlink:href="#fill-3"/>
+    </clipPath>
+  </defs>
+  <g id="FREE_icon" transform="translate(1.598 0.707)">
+    <rect id="Rectangle_447" data-name="Rectangle 447" width="76" height="38" transform="translate(-1.598 -0.707)" fill="rgba(255,219,219,0)"/>
+    <path id="Path_2994" data-name="Path 2994" d="M856.114,494.35v12.928H809V471h47.114v10.663" transform="translate(-796.126 -471)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="1.3"/>
+    <g id="Rectangle_347" data-name="Rectangle 347" transform="translate(12.402 3.874)" fill="none" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="1">
+      <rect width="32.94" height="32.875" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31.94" height="31.875" fill="none"/>
+    </g>
+    <g id="Rectangle_348" data-name="Rectangle 348" transform="translate(18.527 22.615)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="3">
+      <rect id="fill" width="8.952" height="2.356" stroke="none"/>
+      <path d="M0,0.8556952476501465h8.951642036437988M7.451642036437988,0v2.3556952476501465M8.951642036437988,1.5h-8.951642036437988M1.5,2.3556952476501465v-2.3556952476501465" fill="none" clip-path="url(#clip)"/>
+    </g>
+    <g id="Rectangle_349" data-name="Rectangle 349" transform="translate(18.527 27.326)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="3">
+      <rect id="fill-2" width="17.432" height="1.413" stroke="none"/>
+      <path d="M0,-0.08658289909362793h17.432144165039062M15.932144165039062,0v1.413417100906372M17.432144165039062,1.5h-17.432144165039062M1.5,1.413417100906372v-1.413417100906372" fill="none" clip-path="url(#clip-2)"/>
+    </g>
+    <g id="Rectangle_350" data-name="Rectangle 350" transform="translate(18.527 29.682)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="3">
+      <rect id="fill-3" width="17.432" height="1.413" stroke="none"/>
+      <path d="M0,-0.08658289909362793h17.432144165039062M15.932144165039062,0v1.413417100906372M17.432144165039062,1.5h-17.432144165039062M1.5,1.413417100906372v-1.413417100906372" fill="none" clip-path="url(#clip-3)"/>
+    </g>
+    <g id="Ellipse_88" data-name="Ellipse 88" transform="translate(18.487 7.634)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="3">
+      <circle cx="1.413" cy="1.413" r="1.413" stroke="none"/>
+      <circle cx="1.413" cy="1.413" r="0.087" fill="none"/>
+    </g>
+    <circle id="Ellipse_89" data-name="Ellipse 89" cx="0.707" cy="0.707" r="0.707" transform="translate(14.758 1.413)" fill="#b1b4b9"/>
+    <circle id="Ellipse_90" data-name="Ellipse 90" cx="0.707" cy="0.707" r="0.707" transform="translate(16.878 1.413)" fill="#b1b4b9"/>
+    <circle id="Ellipse_91" data-name="Ellipse 91" cx="0.707" cy="0.707" r="0.707" transform="translate(18.998 1.413)" fill="#b1b4b9"/>
+    <g id="Rectangle_351" data-name="Rectangle 351" transform="translate(18.527 12.721)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="1.2">
+      <rect width="20.259" height="8.009" stroke="none"/>
+      <rect x="0.6" y="0.6" width="19.059" height="6.809" fill="none"/>
+    </g>
+    <rect id="Rectangle_352" data-name="Rectangle 352" width="3.769" height="3.769" transform="translate(47.267 7.067)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_441" data-name="Rectangle 441" width="3.769" height="3.769" transform="translate(47.267 18.779)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_353" data-name="Rectangle 353" width="3.769" height="3.769" transform="translate(52.92 7.067)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_354" data-name="Rectangle 354" width="3.769" height="3.769" transform="translate(47.267 12.721)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_440" data-name="Rectangle 440" width="3.769" height="3.769" transform="translate(47.267 24.433)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_439" data-name="Rectangle 439" width="3.769" height="3.769" transform="translate(52.92 24.433)" fill="#fff" stroke="#b1b4b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_3045" data-name="Path 3045" d="M337.06,494.8H328.9a.9.9,0,0,1-.9-.9V488.9a.9.9,0,0,1,.9-.9H343.31a.9.9,0,0,1,.9.9v4.075" transform="translate(-273.78 -474.364)" fill="#fff" stroke="#b1b3b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_3046" data-name="Path 3046" d="M336.121,392.668a.792.792,0,0,0-.791.791v.45h-.693v-1.572a.791.791,0,1,0-1.582,0v1.57h-.693v-2.625a.791.791,0,0,0-1.582,0v2.627h-.566v-1.94a.91.91,0,0,0-.918-.791.792.792,0,0,0-.791.791v4.754h-.542v-2.88l-1.373,1.284a1.63,1.63,0,0,0-.451,1.128v.7a2.681,2.681,0,0,0,.162.918l.873,2.4a3.093,3.093,0,0,0,2.8,2.04h3.454a3.489,3.489,0,0,0,3.485-3.485v-5.366A.792.792,0,0,0,336.121,392.668Z" transform="translate(-263.096 -371.386)" fill="#fff"/>
+    <path id="Path_3047" data-name="Path 3047" d="M325.459,381.31a.977.977,0,0,1-1.565-.942,2.079,2.079,0,0,1-2.714-1.173,2.659,2.659,0,0,1-3,.8,1.489,1.489,0,0,0-.858,1.19h0v.994l-1.681,1.756a2.306,2.306,0,0,0-.64,1.6v.678a3.332,3.332,0,0,0,.205,1.144l.852,2.342a3.756,3.756,0,0,0,1.314,1.753,3.646,3.646,0,0,0,2.072.709h3.389a4.121,4.121,0,0,0,4.117-4.117V382.8A1.491,1.491,0,0,0,325.459,381.31Zm.73,6.726a3.361,3.361,0,0,1-3.357,3.358h-3.37a2.976,2.976,0,0,1-2.691-1.962l-.851-2.343a2.56,2.56,0,0,1-.156-.881v-.679a1.549,1.549,0,0,1,.428-1.072l1.122-1.177v2.7h.76v-4.638a.73.73,0,1,1,1.459,0v1.892h.76v-2.563a.73.73,0,1,1,1.459,0v2.563h.76v-1.531a.73.73,0,1,1,1.459,0v1.531h.76V382.8a.73.73,0,0,1,1.459,0v5.236Z" transform="translate(-252.504 -360.639)" fill="#b1b4b9" stroke="#b1b4b9" stroke-width="0.2"/>
+    <line id="Line_16" data-name="Line 16" x1="47.131" transform="translate(12.505 4.15)" fill="none" stroke="#b1b3b9" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,414 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+.Main {
+	white-space: 100%;
+	height: 100vh;
+	background-image: url(images/j.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+.logo {
+	width: 20%;
+	float: left;
+}
+.logo img {
+	width: 200px;
+	height: 80px;
+	margin-top: 40px;
+}
+.Menu {
+	width: 50%;
+	float: left;
+}
+.Menu ul {
+	float: right;
+}
+.Menu ul li {
+	display: inline-block;
+	margin-right: 35px;
+	margin-top: 45px;
+}
+.Menu ul li a {
+	color: white;
+	text-decoration: none;
+}
+.Menu ul li a:active {
+	color: deepskyblue;
+	text-decoration: none;
+}
+.Right {
+	width:30%;
+	float: right;
+}
+.Right button {
+	border-radius: 20px;
+	margin-top: 35px;
+	margin-left: 20px;
+}
+.Right button a {
+	display: inline-block;
+	padding: 5px 25px 5px 25px;
+	background-color: skyblue;
+	color: white;
+	border: 1px solid white;
+	font-size: 15px;
+	font-family: tahoma;
+	text-decoration: none;
+	border-radius: 20px;
+}
+.Right .b2 a {
+	background-color: purple;
+	color: white;
+	text-decoration: none;
+	border: none;
+}
+.body h1 {
+	color: whitesmoke;
+	font-size: 45px;
+	font-family: tahoma;
+	margin-top: 130px;
+	text-align: center;
+}
+.body h2 {
+	color: whitesmoke;
+	font-family: tahoma;
+	font-size: 22px;
+	margin-top: 18px;
+	text-align: center;
+}
+.Buttons {
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+	overflow: hidden;
+}
+.Buttons button {
+	border-radius: 30px;
+	margin-left: 20px;
+}
+.Buttons a {
+	padding: 17px 23px 17px 23px;
+	background-color: white;
+	color: skyblue;
+	font-size: 20px;
+	font-family: tahoma;
+	width: 180px;
+	float: right;
+	border-radius: 30px;
+	text-decoration: none;
+}
+.Buttons a:hover {
+	padding: 17px 23px 17px 23px;
+	background-color: deepskyblue;
+	color: white;
+	font-size: 20px;
+	font-family: tahoma;
+	width: 180px;
+	float: right;
+	border-radius: 30px;
+	text-decoration: none;
+	transition: 0.4s;
+}
+.Buttons p {
+	color: white;
+}
+.Ball {
+	background-color: whitesmoke;
+}
+.Top img {
+	margin-top: -250px;
+	margin-left: 70px;
+}
+.A {
+	width: 30%;
+	float: left;
+	margin-left: 40px;
+}
+.A h2 {
+	float: right;
+	text-align: justify;
+	margin-top: 50px;
+	margin-right: 25px;
+}
+.B {
+	width: 30%;
+	float: left;
+	margin-left: 40px;
+}
+.B h2 {
+	float: right;
+	text-align: justify;
+	margin-top: 50px;
+	margin-right: 25px;
+}
+.C {
+	width: 30%;
+	float: left;
+	margin-left: 40px;
+}
+.C h2 {
+	float: right;
+	text-align: justify;
+	margin-top: 50px;
+	margin-right: 100px;
+}
+.Line h2 {
+	color: deepskyblue;
+	text-align: center;
+	font-family: tahoma;
+	font-size: 30px;
+}
+.Line p {
+	text-align: center;
+	font-family: tahoma;
+	margin-top: 15px;
+}
+.Down {
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+	overflow: hidden;
+}
+.Down button {
+	border-radius: 30px;
+	margin-left: 20px;
+}
+.Down button a {
+	padding: 16px 23px 16px 23px;
+	background-color: deepskyblue;
+	color: white;
+	font-size: 20px;
+	font-family: tahoma;
+	width: 200px;
+	float: right;
+	border-radius: 30px;
+	text-decoration: none;
+}
+.luffy {
+	margin-top: 100px;
+	background-color: whitesmoke;
+}
+.zoro h2 {
+	color: deepskyblue;
+	text-align: center;
+	font-family: tahoma;
+	font-size: 35px;
+	margin-bottom: 50px;
+}
+.Rally {
+	width: 70%;
+	text-align: center;
+	overflow: hidden;
+	margin-left: 200px;
+	margin-top: 25px;
+}
+.Rally button {
+	border-radius: 30px;
+	margin-left: 25px;
+}
+.Rally button a {
+	padding: 16px 23px 16px 23px;
+	background-color: white;
+	color: Black;
+	font-size: 20px;
+	font-family: tahoma;
+	width: 200px;
+	float: right;
+	border-radius: 30px;
+	text-decoration: none;
+}
+.Rally a:hover {
+	padding: 16px 23px 16px 23px;
+	background-color: deepskyblue;
+	color: white;
+	font-size: 20px;
+	font-family: tahoma;
+	width: 200px;
+	float: right;
+	border-radius: 30px;
+	text-decoration: none;
+}
+.Pick {
+	margin-top: 70px;
+	width: 100%;
+}
+.God h2 {
+	color: black;
+	text-align: center;
+	font-family: tahoma;
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+.devil {
+	width: 20%;
+	float: left;
+	margin-left: 50px;
+	margin-top: 30px;
+	border-radius: 10px;
+	background-color: whitesmoke;
+}
+.devil img {
+	margin-left: 80px;
+	text-align: center !important;
+	width: 100px;
+	height: 60px;
+}
+.devil h2 {
+	text-align: center;
+	color: deepskyblue;
+	font-size: 20px;
+}
+.devil p {
+	text-align: center;
+	color: black;
+	font-family: tahoma;
+	font-size: 18px;
+}
+.Good {
+	width: 20%;
+	float: left;
+	margin-left: 50px;
+	margin-top: 30px;
+	background-color: whitesmoke;
+	border-radius: 10px;
+}
+.Good img {
+	margin-left: 80px;
+	text-align: center !important;
+	width: 100px;
+	height: 60px;
+}
+.Good h2 {
+	text-align: center;
+	color: purple;
+	font-size: 20px;
+}
+.Good p {
+	text-align: center;
+	color: black;
+	font-family: tahoma;
+	font-size: 18px;;
+}
+.Bad {
+	width: 20%;
+	float: left;
+	margin-left: 50px;
+	margin-top: 30px;
+	border-radius: 10px;
+	background-color: whitesmoke;
+}
+.Bad img {
+	margin-left: 80px;
+	text-align: center !important;
+	width: 100px;
+	height: 60px;
+}
+.Bad h2 {
+	text-align: center;
+	color: purple;
+	font-size: 20px;
+}
+.Bad p {
+	text-align: center;
+	color: black;
+	font-family: tahoma;
+	font-size: 18px;
+}
+.Nothing {
+	width: 20%;
+	float: left;
+	margin-left: 50px;
+	margin-top: 30px;
+	border-radius: 10px;
+	background-color: whitesmoke;
+}
+.Nothing img {
+	margin-left: 80px;
+	text-align: center !important;
+	width: 100px;
+	height: 60px;
+}
+.Nothing h2 {
+	text-align: center;
+	color: purple;
+	font-size: 20px;
+}
+.Nothing p {
+	text-align: center;
+	color: black;
+	font-family: tahoma;
+	font-size: 18px;
+}
+.p2 {
+	text-align: center;
+	color: black;
+	font-family: tahoma;
+	font-size: 18px;
+	text-decoration: line-through;
+	margin-top: 10px;
+}
+.p3 {
+	text-align: center;
+	color: black;
+	font-family: tahoma;
+	font-size: 18px;
+	margin-top: 10px;
+}
+.b4{
+	width: 100%;
+	text-align: center;
+	overflow: hidden;
+	margin-top: 25px;
+	margin-bottom: 30px;
+}
+.b4 button {
+	border-radius: 20px;
+}
+.b4 a {
+	padding: 18px 23px 18px 23px;
+	background-color: purple;
+	color: white;
+	font-size: 20px;
+	font-family: tahoma;
+	width: 250px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.b5{
+	width: 100%;
+	text-align: center;
+	overflow: hidden;
+	margin-top: 25px;
+	margin-bottom: 30px;
+}
+.b5 button {
+	border-radius: 20px;
+}
+.b5 a {
+	padding: 18px 23px 18px 23px;
+	background-color: deepskyblue;
+	color: white;
+	font-size: 20px;
+	font-family: tahoma;
+	width: 250px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.Jack {
+	background-color: whitesmoke;
+}
+.rip img {
+	width: 120px;
+	height: 105px;
+	margin-left: 40px;
+}
+.The h2 {
+	font-size: 25px;
+	font-family: tahoma;
+	text-align: center;
+	margin-right: 150px;
+}
